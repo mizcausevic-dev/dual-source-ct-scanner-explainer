@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/dual-source-ct-scanner-explainer/
 
+Repository: https://github.com/mizcausevic-dev/dual-source-ct-scanner-explainer
+
 ## What this is
 
 An interactive anatomy plate for Dual-Source CT Scanner. Play, scrub, or jump the five stages. The same frame always draws the same picture.
